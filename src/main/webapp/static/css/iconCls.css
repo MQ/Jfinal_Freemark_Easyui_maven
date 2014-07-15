@@ -1,0 +1,121 @@
+.icon-block {
+	display: inline-block;
+	vertical-align: middle;
+	width: 16px;
+	height: 16px;
+}
+
+.icon-cog {
+	vertical-align:middle;
+	background: url('extjs_icons/cog.png') no-repeat;
+}
+
+.icon-address_book {
+	vertical-align:middle;
+	background: url('iconCls/address_book.png') no-repeat;
+}
+
+.icon-advanced {
+	vertical-align:middle;
+	background: url('iconCls/advanced.png') no-repeat;
+}
+
+.icon-customers {
+	vertical-align:middle;
+	background: url('iconCls/customers.png') no-repeat;
+}
+
+.icon-donate {
+	vertical-align:middle;
+	background: url('iconCls/donate.png') no-repeat;
+}
+
+.icon-edit {
+	vertical-align:middle;
+	background: url('iconCls/edit.png') no-repeat;
+}
+
+.icon-folder {
+	vertical-align:middle;
+	background: url('iconCls/folder.png') no-repeat;
+}
+
+.icon-full_time {
+	vertical-align:middle;
+	background: url('iconCls/full_time.png') no-repeat;
+}
+
+.icon-future_projects {
+	vertical-align:middle;
+	background: url('iconCls/future_projects.png') no-repeat;
+}
+
+.icon-heart {
+	vertical-align:middle;
+	background: url('iconCls/heart.png') no-repeat;
+}
+
+.icon-home {
+	vertical-align:middle;
+	background: url('iconCls/home.png') no-repeat;
+}
+
+.icon-my_account {
+	background: url('iconCls/my_account.png') no-repeat;
+}
+
+.icon-new_mail {
+	vertical-align:middle;
+	background: url('iconCls/mail.png') no-repeat;
+}
+.icon-inbox {
+	vertical-align:middle;
+	background: url('iconCls/mail-inbox.png') no-repeat;
+}
+.icon-drafts {
+	vertical-align:middle;
+	background: url('iconCls/drafts.png') no-repeat;
+}
+.icon-trash{
+	vertical-align:middle;
+	background: url('iconCls/trash.png') no-repeat;
+}
+
+.icon-send {
+	vertical-align:middle;
+	background: url('iconCls/mail-sent.png') no-repeat;
+}
+
+.icon-tag {
+	vertical-align:middle;
+	background: url('iconCls/tag.png') no-repeat;
+}
+
+.icon-user {
+	vertical-align:middle;
+	background: url('iconCls/user.png') no-repeat;
+}
+
+.icon-login {
+	vertical-align:middle;
+	background: url('iconCls/login.png') no-repeat;
+}
+
+.icon-logout {
+	vertical-align:middle;
+	background: url('iconCls/logout.png') no-repeat;
+}
+
+.icon-search {
+	vertical-align:middle;
+	background: url('iconCls/search.png') no-repeat;
+}
+
+.icon-link {
+	vertical-align:middle;
+	background: url('iconCls/link.png') no-repeat;
+}
+.icon-arrow_right {
+	vertical-align:middle;
+	background: url('iconCls/arrow-right.png') no-repeat;
+}

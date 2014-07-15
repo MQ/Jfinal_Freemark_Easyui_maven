@@ -1,0 +1,26 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>雅思OA</title>
+<#include "/ht/public/inc/inc.html" />
+<#include "/ht/public/inc/meta.html" />
+<#include "/ht/public/inc/islogin.html" />
+</head>
+<body class="easyui-layout">
+	<div data-options="region:'north',border:false,split:true,href:'${baseUrl!}/index/href?url=/ht/public/layout/north.html'" style="height: 50px;overflow: hidden;" class="app-header">
+	</div>
+	<div data-options="region:'west',border:false,title:'功能导航',split:true" style="width: 200px;overflow: hidden;">
+	<#include "/ht/public/layout/west.html" />
+	</div>
+	<div data-options="region:'center',border:false,split:true,title:''" style="overflow: hidden;">
+	<#include "/ht/public/layout/center.html" />
+	</div>
+	<div data-options="region:'east',title:'日历',border:false,split:true" style="width: 200px;overflow: hidden;">
+	<#include "/ht/public/layout/east.html" />
+	</div>
+	<div data-options="region:'south',border:false" style="height: 27px;overflow: hidden;">
+	<#include "/ht/public/layout/south.html" />
+	</div>
+	
+</body>
+</html>

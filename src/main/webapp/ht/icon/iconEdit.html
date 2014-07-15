@@ -1,0 +1,25 @@
+<div>
+	<form id="icon_edit_form" method="post">
+		<table class="tableForm">
+			<tr style="display: none">
+				<th>编号</th>
+				<td>
+					<input name="ticon.id" readonly="readonly" style="width: 370px;" value="${(iconModel.id)!}"/>
+				</td>
+			</tr>
+			<tr>
+				<th>名称</th>
+				<td>
+					<input name="ticon.name" class="easyui-validatebox" style="width: 370px;" value="${(iconModel.name)!}"/>
+				</td>
+			</tr>
+
+			<tr>
+				<th>地址</th>
+				<td>
+					<input name="ticon.url" class="easyui-validatebox" style="width: 370px;" value="${(iconModel.url)!}"/>
+				</td>
+			</tr>
+		</table>
+	</form>
+</div>
